@@ -26,6 +26,21 @@ body {
     width: 100%;
 }
 
+/* Barra de navegacion */
+#horizontal_navbar {
+    color: #bbe1fa;
+}
+
+#landing_logo {
+    width: 3%;
+    margin: 5px;
+   
+}
+
+.w3-bar-item {
+   margin:5px
+}
+
 .titulo {
     font-size: 250%;
     color:#bbe1fa;
