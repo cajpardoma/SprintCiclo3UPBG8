@@ -32,13 +32,22 @@ body {
 }
 
 #landing_logo {
-    width: 3%;
+    width: 2%;
     margin: 5px;
    
 }
 
 .w3-bar-item {
    margin:5px
+}
+
+#boton_registro_usuario {
+    background-color: #bbe1fa;
+    margin: 10px;
+}
+
+#irA_registro_usuario {
+    text-decoration: none;
 }
 
 .titulo {
